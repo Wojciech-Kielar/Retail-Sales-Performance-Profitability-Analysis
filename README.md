@@ -66,13 +66,13 @@ The final BI solution consists of three interconnected dashboards:
 ## Dashboard Preview
 
 ### Executive Overview
-![Overview](tableau/Overview — Executive Summary.png)
+![Overview](tableau/Overview_ExecutiveSummary.png)
 
 ### Geographic Performance Analysis
-![Map](tableau/Geographic Analysis — Map View.png)
+![Map](tableau/GeographicAnalysis_MapView.png.png)
 
 ### Time & Performance Trends
-![Trends](tableau/Time & Performance Trends — Trend Analysis.png)
+![Trends](tableau/TimeAndPerformanceTrends_TrendAnalysis.png)
 
 ---
 
