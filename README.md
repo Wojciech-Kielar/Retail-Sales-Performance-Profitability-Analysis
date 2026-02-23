@@ -1,67 +1,103 @@
 # Retail Sales Performance & Profitability Analysis
 
-## Executive Summary
-This project presents a comprehensive end-to-end retail performance analysis focused on sales, profitability, geographic distribution, and time-based trends.
+## Project Overview
 
-The objective was to transform raw transactional data into an executive-level Business Intelligence solution using SQL and Tableau.
+This project delivers an end-to-end Business Intelligence solution designed to analyze retail sales performance, profitability drivers, geographic distribution, and time-based trends.
+
+The objective was to transform transactional data into a structured analytical model and executive-level dashboard supporting strategic decision-making.
 
 ---
 
-## Business Objective
-The goal of this analysis was to:
+## Business Context
 
-- Evaluate overall business profitability
-- Identify high and low performing product categories
-- Analyze geographic profit distribution across states
-- Detect time-based performance patterns and seasonality
-- Build an interactive executive dashboard for decision support
+Retail organizations often face challenges such as:
+
+- High revenue but low profitability
+- Uneven geographic performance
+- Hidden loss-driving product categories
+- Seasonal volatility in sales
+
+This project addresses these issues through structured KPI analysis and interactive dashboard design.
 
 ---
 
 ## Tools & Technologies
-- **SQL** – data cleaning, KPI calculations, aggregation logic
-- **Tableau** – interactive dashboard development
-- **Excel** – initial validation and exploratory checks
+
+- SQL (data transformation, aggregation, KPI logic)
+- Tableau (interactive BI dashboards)
+- Excel (data validation & exploratory checks)
 
 ---
 
-## Analytical Process
+## Data Workflow Architecture
 
-### 1. Data Preparation
-- Validation of transactional records
-- Profit and sales consistency checks
-- Structural data review
-
-### 2. KPI & Business Analysis (SQL)
-- Revenue and profit aggregation
-- Category and sub-category profitability analysis
-- State-level performance metrics
-- Time-series performance calculations
-
-### 3. Business Intelligence Dashboard (Tableau)
-
-The solution consists of three interconnected dashboards:
-
-- **Overview Dashboard** – Executive KPI summary
-- **Geographic Analysis** – State-level profit visualization (filled map)
-- **Time & Performance Trends** – Sales and profit evolution over time
+1. Raw transactional data validation
+2. SQL-based aggregation and KPI calculations
+3. Profitability segmentation (Category / Sub-Category / State)
+4. Time-series performance analysis
+5. Executive dashboard implementation in Tableau
 
 ---
 
-## Key Insights
+## Dashboard Structure
 
-- Revenue does not always correlate with profitability.
-- Significant geographic performance disparities exist.
-- Clear seasonality patterns impact overall business results.
-- Certain sub-categories generate strong revenue but weak margins.
+The final BI solution consists of three interconnected dashboards:
+
+### 1. Executive Overview
+- Total Sales
+- Total Profit
+- Profit Margin
+- Loss Order %
+- Category performance comparison
+
+### 2. Geographic Performance Analysis
+- Filled map visualization
+- Profit distribution by state
+- Identification of high-risk and high-opportunity regions
+
+### 3. Time & Performance Trends
+- Monthly sales trend
+- Monthly profit trend
+- Seasonality patterns
+- Performance fluctuations over time
+
+---
+
+## Key Analytical Insights
+
+- Revenue volume does not guarantee profitability.
+- Certain sub-categories generate consistent losses despite strong sales.
+- Geographic profitability disparities significantly impact overall margin.
+- Clear seasonality patterns influence revenue performance.
+
+---
+
+## Business Value
+
+This project demonstrates the ability to:
+
+- Translate raw data into structured KPIs
+- Identify profitability drivers and risk areas
+- Design executive-level dashboards
+- Apply multi-dimensional analytical thinking
+- Deliver data-driven business insights
 
 ---
 
 ## Live Dashboard
-[View Interactive Dashboard on Tableau Public](PASTE_YOUR_LINK_HERE)
+
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/RetailSalesPerformanceProfitabilityAnalysis/OverviewExecutiveSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
+## Repository Structure
+
+sql/ → SQL scripts for data analysis
+tableau/ → Dashboard screenshots
 
 ---
 
 ## Author
-Wojciech Kielar
-[Portfolio link]
+
+Wojciech Kielar  
+Data Analytics Portfolio Project
