@@ -84,6 +84,19 @@ This project demonstrates the ability to:
 
 ---
 
+## Advanced Tableau Techniques Used
+
+- Dynamic Top & Bottom 5 ranking using RANK() and SIZE()
+- Custom KPI sheet built using Measure Names & Measure Values
+- Filled Map with profit-based color encoding
+- Custom state labeling logic for improved geographic readability
+- Dashboard navigation between interconnected views
+- Interactive filters controlling multiple dashboards
+- Calculated fields for Profit Margin and Loss Order %
+- Time-series analysis with monthly trend aggregation
+
+---
+
 ## Live Dashboard
 
 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/RetailSalesPerformanceProfitabilityAnalysis/OverviewExecutiveSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
