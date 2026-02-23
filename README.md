@@ -63,6 +63,19 @@ The final BI solution consists of three interconnected dashboards:
 
 ---
 
+## Dashboard Preview
+
+### Executive Overview
+![Overview](tableau/Overview — Executive Summary.png)
+
+### Geographic Performance Analysis
+![Map](tableau/Geographic Analysis — Map View.png)
+
+### Time & Performance Trends
+![Trends](tableau/Time & Performance Trends — Trend Analysis.png)
+
+---
+
 ## Key Analytical Insights
 
 - Revenue volume does not guarantee profitability.
